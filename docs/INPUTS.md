@@ -30,12 +30,14 @@ Files that are not straight copies:
   four wells shown in Fig. 5 D and Fig. 6 C (B3 vehicle, B6 TNFa, D3 Matrigel only,
   E2 10 % collagen I).
 
-## 2. `data/staged/`: derived from the atlas (tracked, regenerable)
+## 2. `data/staged/`: derived tables (tracked, regenerable)
 
-Written by `scripts/00_stage_inputs.py` in one streaming pass over
-`endometrium_annotated_v1.h5ad` (14.3 GB; 698,631 x 17,987 CSR int64 counts). The
+Four files are written by `scripts/00_stage_inputs.py` in one streaming pass over
+`endometrium_annotated_v1.h5ad` (14.3 GB; 698,631 x 17,987 CSR int64 counts); the
 script reads X in 25,000-cell row blocks because the file cannot be loaded whole on an
-8 GB machine.
+8 GB machine. The fifth, `marker_zscore_deck139.csv`, is written by
+`scripts/stage_marker_deck139.py` from `raw_light/pseudobulk_rep_by_type.npz` and
+needs no atlas.
 
 | file | shape | feeds |
 |---|---|---|
@@ -43,7 +45,7 @@ script reads X in 25,000-cell row blocks because the file cannot be loaded whole
 | `composition_by_replicate.csv` | 15 replicates x 16 types | Fig. 2 F |
 | `percell_module_scores.npz` | scores (5, 698,631) | Fig. 3 A, extras |
 | `marker_zscore.csv` | 16 x 66 | kept for completeness; not drawn |
-| `marker_zscore_deck139.csv` | 16 x 139 | Fig. 2 D |
+| `marker_zscore_deck139.csv` | 16 x 139 | Fig. 2 D (from pseudobulk, `stage_marker_deck139.py`) |
 
 The script checks the atlas shape, the five per-stage cell counts, 16 cell types, 4
 compartments and the absence of NaN, and exits non-zero on any mismatch.

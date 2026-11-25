@@ -1,4 +1,4 @@
-# sc_endom
+# sc_endom_regeneration
 
 Code and input tables for the figures of *Mapping Uterine Remodeling from Pregnancy to
 a New Homeostatic State* (Teves et al.): a whole-uterus scRNA-seq time course in the
@@ -43,7 +43,8 @@ data/raw_light/      input tables and images; MANIFEST.csv gives origin, size, s
   liana/             LIANA output, epithelium as target (Fig. 5 B-C, Fig. 6 A-B)
   organoids/         tracked organoid diameters, representative wells, well images
   fig5_k5/, fig6/, sfig1-5/   tables of the earlier figure versions
-data/staged/         five files derived from the atlas by scripts/00_stage_inputs.py
+data/staged/         four files from the atlas (scripts/00_stage_inputs.py) and the 139-gene
+                     marker matrix from pseudobulk (scripts/stage_marker_deck139.py)
 src/figN_panels.py   one module per main figure, build(repo_root, out_dir) -> {panel: path}
 src/sfigN_panels.py  one module per supplementary figure, same contract
 src/*_panels.py      the builders the figure modules call (see docs/PANEL_MAP.md)
