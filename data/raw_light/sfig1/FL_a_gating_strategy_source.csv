@@ -1,4 +1,0 @@
-step,gate,threshold,n_in,n_out,pct_retained,singlet_ratio_hi,tube,gates_are
-1_cells,"FSC-A > Otsu(pooled log10 FSC-A, session-A ALLCOLORS)",250345.6329828563,63920,22736.0,35.57,,Control-ALLCOLORS (1).fcs,AUTOMATED/UNSUPERVISED — not the lab's own gates; no FlowJo workspace exists on disk
-2_singlets,FSC-H/FSC-A within median +/- 2 MAD (per tube),0.094056,22736,19778.0,86.99,0.644573,Control-ALLCOLORS (1).fcs,AUTOMATED/UNSUPERVISED — not the lab's own gates; no FlowJo workspace exists on disk
-3_live_dead,NOT APPLIED — PI (Y610) and PDGFRa PE-CF594 (Y610) share one detector,367999.09375,19778,,,,Control-ALLCOLORS (1).fcs,AUTOMATED/UNSUPERVISED — not the lab's own gates; no FlowJo workspace exists on disk

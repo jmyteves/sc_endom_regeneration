@@ -1,9 +1,0 @@
-stage,side,genes
-E16_5,control,"Igf1, Mdk, Wnt5a, Igfbp4, Col4a6"
-PPD1,control,"Col4a6, Igf1, Col18a1, Wnt5a, Lama2"
-PPD7,control,"Col1a2, Fn1, Mdk, Col18a1, Col4a6"
-PPD30,control,"Col18a1, Wnt5a, Col4a6, Igf1, Angptl7"
-E16_5,stage,"Fn1, Col1a1, Apoe, Col4a2, Col4a1"
-PPD1,stage,"Col1a1, Thbs1, Col6a1, C3, Col6a2"
-PPD7,stage,"App, B2m, Cxcl12, Apoe, H2-K1"
-PPD30,stage,"Apoe, Cxcl12, Thbs1, Col1a1, Col6a1"

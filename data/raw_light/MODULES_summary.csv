@@ -1,6 +1,0 @@
-module,n_genes,peak_stage,colour,definition,file
-Homeostasis,678,Control,#808080,higher in control in >=3 of the 4 CTRL-anchored contrasts,module_homeostasis_678genes.csv
-Pregnancy,217,E16.5,#cb7a29,"up vs control at E16.5 (q<0.05, |log2FC|>=1)",module_pregnancy_217genes.csv
-Early repair,985,PPD1,#A0522D,"up vs control at PPD1 (q<0.05, |log2FC|>=1)",module_early_repair_985genes.csv
-Late repair,745,PPD7,#FA8072,"up vs control at PPD7 (q<0.05, |log2FC|>=1)",module_late_repair_745genes.csv
-Remodelling,789,PPD30,#4682B4,up vs control at PPD30 AND PPD30 is that gene's maximum stage,module_remodelling_789genes.csv
