@@ -1,0 +1,19 @@
+{
+  "Fibroblast": "#008080",
+  "Stromal (remodeling)": "#1e90ff",
+  "Proliferating stromal": "#483d8b",
+  "Fibroblast (Igf1+)": "#4682b4",
+  "Smooth muscle": "#556b2f",
+  "Pericyte": "#20b2aa",
+  "Vascular endothelial": "#fa8072",
+  "Lymphatic endothelial": "#a0522d",
+  "Mesothelial": "#db7093",
+  "Epithelial": "#708090",
+  "Macrophage": "#cd853f",
+  "Dendritic cell": "#ff8c00",
+  "Macrophage/APC": "#ffd700",
+  "Dendritic cell (cDC1)": "#8b0000",
+  "Myeloid (cl20)": "#d2691e",
+  "T cell": "#9370db",
+  "NK cell": "#8b008b"
+}

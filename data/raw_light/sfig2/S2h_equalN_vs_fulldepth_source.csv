@@ -1,0 +1,13 @@
+cell_type,full_depth,equalN_median,equalN_p05,equalN_p95,N_per_replicate,retained_%,panel,compartment,full_depth_share_pct,equalN_median_share_pct
+Fibroblast,3963,3956,3922,4016,1887,100.0,S2h_a_equalN_vs_fulldepth,Stromal,13.2982,20.6485
+Macrophage,2445,2189,2143,2235,1028,90.0,S2h_a_equalN_vs_fulldepth,Immune,8.2044,11.3618
+Epithelial,4541,4542,4463,4603,568,100.0,S2h_a_equalN_vs_fulldepth,Epithelial,15.2377,23.5395
+Lymphatic endothelial,2138,1965,1896,2012,412,92.0,S2h_a_equalN_vs_fulldepth,Endothelial,7.1743,10.2296
+Vascular endothelial,3142,3128,3075,3163,361,100.0,S2h_a_equalN_vs_fulldepth,Endothelial,10.5433,16.2548
+Pericyte,910,423,341,530,289,46.0,S2h_a_equalN_vs_fulldepth,Stromal,3.0536,2.1867
+Smooth muscle,2588,931,737,1267,160,36.0,S2h_a_equalN_vs_fulldepth,Stromal,8.6843,4.8244
+Stromal (remodeling),1767,179,117,242,145,10.0,S2h_a_equalN_vs_fulldepth,Stromal,5.9293,0.9281
+Mesothelial,2777,698,571,895,95,25.0,S2h_a_equalN_vs_fulldepth,Stromal,9.3185,3.6731
+Macrophage/APC,495,319,193,388,94,64.0,S2h_a_equalN_vs_fulldepth,Immune,1.661,1.6649
+Proliferating stromal,4502,605,435,744,54,13.0,S2h_a_equalN_vs_fulldepth,Stromal,15.1069,3.123
+Dendritic cell (cDC1),533,384,0,458,51,72.0,S2h_a_equalN_vs_fulldepth,Immune,1.7885,1.9957

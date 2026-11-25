@@ -1,0 +1,81 @@
+stage,compartment,cell_type,n_cells,status
+CTRL,Endothelial,Lymphatic endothelial,3496,tested
+CTRL,Endothelial,Vascular endothelial,6600,tested
+CTRL,Epithelial,Epithelial,8943,tested
+CTRL,Immune,Dendritic cell,147,tested
+CTRL,Immune,Dendritic cell (cDC1),4462,tested
+CTRL,Immune,Macrophage,12336,tested
+CTRL,Immune,Macrophage/APC,813,tested
+CTRL,Immune,NK cell,1678,tested
+CTRL,Immune,T cell,195,tested
+CTRL,Stromal,Fibroblast,68426,tested
+CTRL,Stromal,Fibroblast (Igf1+),153,tested
+CTRL,Stromal,Mesothelial,6299,tested
+CTRL,Stromal,Pericyte,3531,tested
+CTRL,Stromal,Proliferating stromal,4360,tested
+CTRL,Stromal,Smooth muscle,1745,tested
+CTRL,Stromal,Stromal (remodeling),3977,tested
+E16_5,Endothelial,Lymphatic endothelial,870,tested
+E16_5,Endothelial,Vascular endothelial,756,tested
+E16_5,Epithelial,Epithelial,2489,tested
+E16_5,Immune,Dendritic cell,22,tested
+E16_5,Immune,Dendritic cell (cDC1),153,tested
+E16_5,Immune,Macrophage,2351,tested
+E16_5,Immune,Macrophage/APC,211,tested
+E16_5,Immune,NK cell,49,tested
+E16_5,Immune,T cell,54,tested
+E16_5,Stromal,Fibroblast,7125,tested
+E16_5,Stromal,Fibroblast (Igf1+),8,dropped (<10 cells)
+E16_5,Stromal,Mesothelial,219,tested
+E16_5,Stromal,Pericyte,1307,tested
+E16_5,Stromal,Proliferating stromal,159,tested
+E16_5,Stromal,Smooth muscle,714,tested
+E16_5,Stromal,Stromal (remodeling),1201,tested
+PPD1,Endothelial,Lymphatic endothelial,7311,tested
+PPD1,Endothelial,Vascular endothelial,3762,tested
+PPD1,Epithelial,Epithelial,3173,tested
+PPD1,Immune,Dendritic cell,565,tested
+PPD1,Immune,Dendritic cell (cDC1),2873,tested
+PPD1,Immune,Macrophage,53736,tested
+PPD1,Immune,Macrophage/APC,1063,tested
+PPD1,Immune,NK cell,208,tested
+PPD1,Immune,T cell,243,tested
+PPD1,Stromal,Fibroblast,47522,tested
+PPD1,Stromal,Fibroblast (Igf1+),191,tested
+PPD1,Stromal,Mesothelial,9884,tested
+PPD1,Stromal,Pericyte,11027,tested
+PPD1,Stromal,Proliferating stromal,123,tested
+PPD1,Stromal,Smooth muscle,9262,tested
+PPD1,Stromal,Stromal (remodeling),43182,tested
+PPD7,Endothelial,Lymphatic endothelial,1095,tested
+PPD7,Endothelial,Vascular endothelial,1747,tested
+PPD7,Epithelial,Epithelial,559,tested
+PPD7,Immune,Dendritic cell,2336,tested
+PPD7,Immune,Dendritic cell (cDC1),9036,tested
+PPD7,Immune,Macrophage,17534,tested
+PPD7,Immune,Macrophage/APC,5610,tested
+PPD7,Immune,NK cell,16057,tested
+PPD7,Immune,T cell,19251,tested
+PPD7,Stromal,Fibroblast,232555,tested
+PPD7,Stromal,Fibroblast (Igf1+),4330,tested
+PPD7,Stromal,Mesothelial,1328,tested
+PPD7,Stromal,Pericyte,4571,tested
+PPD7,Stromal,Proliferating stromal,6356,tested
+PPD7,Stromal,Smooth muscle,6959,tested
+PPD7,Stromal,Stromal (remodeling),9254,tested
+PPD30,Endothelial,Lymphatic endothelial,559,tested
+PPD30,Endothelial,Vascular endothelial,194,tested
+PPD30,Epithelial,Epithelial,4744,tested
+PPD30,Immune,Dendritic cell,192,tested
+PPD30,Immune,Dendritic cell (cDC1),496,tested
+PPD30,Immune,Macrophage,2695,tested
+PPD30,Immune,Macrophage/APC,67,tested
+PPD30,Immune,NK cell,274,tested
+PPD30,Immune,T cell,323,tested
+PPD30,Stromal,Fibroblast,5092,tested
+PPD30,Stromal,Fibroblast (Igf1+),43,tested
+PPD30,Stromal,Mesothelial,2262,tested
+PPD30,Stromal,Pericyte,520,tested
+PPD30,Stromal,Proliferating stromal,23,tested
+PPD30,Stromal,Smooth muscle,927,tested
+PPD30,Stromal,Stromal (remodeling),2668,tested

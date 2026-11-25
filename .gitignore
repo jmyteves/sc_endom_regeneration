@@ -1,0 +1,11 @@
+# rendered output: regenerate from the notebooks
+figures/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS / Drive
+.DS_Store
+Icon?

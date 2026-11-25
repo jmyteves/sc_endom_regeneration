@@ -1,0 +1,41 @@
+scoring,comparison,metric,timepoint,ratio_treat_over_ctrl,p_value,n_treat,n_ctrl
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,absolute diameter,24,0.958,0.36654816988046046,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,absolute diameter,48,0.991,0.9006531149505799,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,absolute diameter,72,1.113,0.024982401987462415,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,absolute diameter,96,1.026,0.6076731908081519,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,relative to own 24 h,rel48,1.033,0.4811283918400905,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,relative to own 24 h,rel72,1.162,0.0014044889893972718,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,relative to own 24 h,rel96,1.067,0.3606370076515004,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,step-wise (vs previous tp),st48,1.033,0.4811283918400905,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,step-wise (vs previous tp),st72,1.123,0.015150753549472493,162,201
+consensus (both raters),TNFα 10 ng/mL vs Vehicle,step-wise (vs previous tp),st96,0.918,0.009699724897529972,162,201
+consensus (both raters),10% collagen I vs Matrigel only,absolute diameter,24,1.266,0.04981581240866503,137,135
+consensus (both raters),10% collagen I vs Matrigel only,absolute diameter,48,1.157,0.16758737206908758,137,135
+consensus (both raters),10% collagen I vs Matrigel only,absolute diameter,72,1.018,0.8457537655588425,137,135
+consensus (both raters),10% collagen I vs Matrigel only,absolute diameter,96,0.905,0.015285136491409793,137,135
+consensus (both raters),10% collagen I vs Matrigel only,relative to own 24 h,rel48,0.924,0.007040058941722448,137,135
+consensus (both raters),10% collagen I vs Matrigel only,relative to own 24 h,rel72,0.83,0.0003080942980257684,137,135
+consensus (both raters),10% collagen I vs Matrigel only,relative to own 24 h,rel96,0.747,0.00030215821695823996,137,135
+consensus (both raters),10% collagen I vs Matrigel only,step-wise (vs previous tp),st48,0.924,0.007040058941722448,137,135
+consensus (both raters),10% collagen I vs Matrigel only,step-wise (vs previous tp),st72,0.901,6.307050212107129e-05,137,135
+consensus (both raters),10% collagen I vs Matrigel only,step-wise (vs previous tp),st96,0.904,0.0058333833871469405,137,135
+either rater,TNFα 10 ng/mL vs Vehicle,absolute diameter,24,0.912,0.024380377248050113,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,absolute diameter,48,0.932,0.16275104540382312,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,absolute diameter,72,1.034,0.4812247884849452,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,absolute diameter,96,0.96,0.4039514995545379,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,relative to own 24 h,rel48,1.021,0.47900939810579946,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,relative to own 24 h,rel72,1.133,0.0009586707791974574,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,relative to own 24 h,rel96,1.048,0.44776249206491747,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,step-wise (vs previous tp),st48,1.021,0.47900939810579946,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,step-wise (vs previous tp),st72,1.104,0.043226209911749844,203,238
+either rater,TNFα 10 ng/mL vs Vehicle,step-wise (vs previous tp),st96,0.926,0.013406126921549924,203,238
+either rater,10% collagen I vs Matrigel only,absolute diameter,24,1.264,0.001146071707468246,177,176
+either rater,10% collagen I vs Matrigel only,absolute diameter,48,1.154,0.008493961150016844,177,176
+either rater,10% collagen I vs Matrigel only,absolute diameter,72,1.072,0.17890823910673703,177,176
+either rater,10% collagen I vs Matrigel only,absolute diameter,96,0.992,0.9350533361107617,177,176
+either rater,10% collagen I vs Matrigel only,relative to own 24 h,rel48,0.926,0.003357586824816929,177,176
+either rater,10% collagen I vs Matrigel only,relative to own 24 h,rel72,0.862,0.0001157198801689086,177,176
+either rater,10% collagen I vs Matrigel only,relative to own 24 h,rel96,0.793,0.00017867004406328383,177,176
+either rater,10% collagen I vs Matrigel only,step-wise (vs previous tp),st48,0.926,0.003357586824816929,177,176
+either rater,10% collagen I vs Matrigel only,step-wise (vs previous tp),st72,0.93,0.0007712658181074131,177,176
+either rater,10% collagen I vs Matrigel only,step-wise (vs previous tp),st96,0.927,0.009494162437947202,177,176

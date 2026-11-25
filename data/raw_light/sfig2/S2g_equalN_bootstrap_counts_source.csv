@@ -1,0 +1,2 @@
+status,superseded_by,reason
+SUPERSEDED,S2h_equalN_bootstrap_counts_source.csv,equal-N content moved from S2g panels c/d to standalone panel S2h when 2x type forced the split; file kept as a pointer rather than deleted (no rm on host paths)

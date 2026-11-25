@@ -1,0 +1,23 @@
+cluster,group,label,marker_signature
+0,A,Fibroblast,Dpt/Dcn/Col1a1/Col3a1/Mmp2
+1,A,Fibroblast,Dpt/Dcn/Col1a1/Col3a1/Mmp2
+18,A,Fibroblast,Dpt/Dcn/Col1a1/Col3a1/Mmp2
+3,B,Stromal (remodeling),Rxfp1/Mmp11/Mmp14/Aebp1/Thbs1
+13,B,Stromal (remodeling),Rxfp1/Mmp11/Mmp14/Aebp1/Thbs1
+19,C,Dendritic cell,Cd74/H2-Aa/H2-Eb1/Ctsh/Ctss
+21,C,Dendritic cell,Cd74/H2-Aa/H2-Eb1/Ctsh/Ctss
+15,D,Macrophage,Lyz2/Csf1r/C1qb/Apoe/Fcer1g
+2,D,Macrophage,Lyz2/Csf1r/C1qb/Apoe/Fcer1g
+8,E,Smooth muscle,Myh11/Acta2/Tagln/Mylk/Smtn
+20,E,Smooth muscle,Myh11/Acta2/Tagln/Mylk/Smtn
+10,S10,Dendritic cell (cDC1),Clec9a/Cst3/H2-Ab1/Naaa
+11,S11,Lymphatic endothelial,Prox1/Lyve1/Flt4/Ccl21a/Mmrn1
+12,S12,Vascular endothelial,Pecam1/Cd34/Emcn/Flt1/Egfl7
+14,S14,Proliferating stromal,Mki67/Stmn1/Hjurp/Col3a1
+16,S16,Macrophage/APC,Ctss/Cd74/Fcer1g/Tyrobp
+17,S17,Fibroblast (Igf1+),Igf1/Igfbp3/Dcn/Dpt/Mmp2
+4,S4,Pericyte,Rgs5/Pdgfrb/Notch3/Abcc9
+5,S5,T cell,Cd3e/Cd3g/Cxcr6/Lat
+6,S6,Mesothelial,Msln/Upk3b/C3/Krt19
+7,S7,Epithelial,Epcam/Cd24a/Wfdc2/Prom1/Plet1
+9,S9,NK cell,Nkg7/Ncr1/Il2rb/Ctsw

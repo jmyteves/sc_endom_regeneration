@@ -1,0 +1,15 @@
+replicate,stage,cells_retained,pct_doublet_calls_among_retained,scDblFinder_version,run_unit,handling,delivered_SFig12_atlas_residual_score_gt_0.5_pct
+CTRL_1,CTRL,63951,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+CTRL_2,CTRL,63174,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+E16_5_1,E16_5,6333,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+E16_5_2,E16_5,7525,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+E16_5_3,E16_5,3830,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD1_1,PPD1,73861,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD1_2,PPD1,92813,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD1_3,PPD1,27451,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD7_1,PPD7,105509,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD7_2,PPD7,100630,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD7_3,PPD7,132439,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD30_1,PPD30,13434,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD30_2,PPD30,3451,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3
+PPD30_3,PPD30,4194,0.0,1.16.0,sequencing unit,predicted doublets removed; singlets retained only,0.3

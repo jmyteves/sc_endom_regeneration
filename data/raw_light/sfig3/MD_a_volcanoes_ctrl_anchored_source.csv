@@ -1,0 +1,5 @@
+contrast,n_tested,n_up_stage_high,n_down_control_high,threshold
+CTRL_vs_E16.5,16652,222,1361,q<0.05 & |log2FC|>=1
+CTRL_vs_PPD1,16642,985,2045,q<0.05 & |log2FC|>=1
+CTRL_vs_PPD7,17174,745,1368,q<0.05 & |log2FC|>=1
+CTRL_vs_PPD30,17463,1089,1268,q<0.05 & |log2FC|>=1

@@ -1,0 +1,2 @@
+Projection PNGs (Fig5.pngs.processed/*/Projections, ~3298x2965 px): 2.50 um/px (+/-1%), derived from CZI metadata 1.29 um/px x 6386/3298; confirmed by image registration (scale 0.510-0.516).
+Acquisition: Zeiss EC Plan-Neofluar 5x/0.16 M27, widefield, 30-tile mosaic, 11 z-planes at 180 um, Gray16. Tracking ran at 2x downsample (5.00 um/px); areas in *_tracks.csv are in full-PNG px^2 (x6.25 for um^2).

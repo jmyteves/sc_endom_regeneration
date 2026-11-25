@@ -1,0 +1,26 @@
+program_a,program_b,n_a,n_b,intersection,union,jaccard,pct_of_a
+Homeostasis,Homeostasis,678,678,678,678,1.0,100.0
+Homeostasis,Pregnancy,678,217,1,894,0.0011,0.15
+Homeostasis,Early repair,678,985,0,1663,0.0,0.0
+Homeostasis,Late repair,678,745,7,1416,0.0049,1.03
+Homeostasis,New Homeostasis,678,789,13,1454,0.0089,1.92
+Pregnancy,Homeostasis,217,678,1,894,0.0011,0.46
+Pregnancy,Pregnancy,217,217,217,217,1.0,100.0
+Pregnancy,Early repair,217,985,73,1129,0.0647,33.64
+Pregnancy,Late repair,217,745,30,932,0.0322,13.82
+Pregnancy,New Homeostasis,217,789,24,982,0.0244,11.06
+Early repair,Homeostasis,985,678,0,1663,0.0,0.0
+Early repair,Pregnancy,985,217,73,1129,0.0647,7.41
+Early repair,Early repair,985,985,985,985,1.0,100.0
+Early repair,Late repair,985,745,189,1541,0.1226,19.19
+Early repair,New Homeostasis,985,789,145,1629,0.089,14.72
+Late repair,Homeostasis,745,678,7,1416,0.0049,0.94
+Late repair,Pregnancy,745,217,30,932,0.0322,4.03
+Late repair,Early repair,745,985,189,1541,0.1226,25.37
+Late repair,Late repair,745,745,745,745,1.0,100.0
+Late repair,New Homeostasis,745,789,42,1492,0.0282,5.64
+New Homeostasis,Homeostasis,789,678,13,1454,0.0089,1.65
+New Homeostasis,Pregnancy,789,217,24,982,0.0244,3.04
+New Homeostasis,Early repair,789,985,145,1629,0.089,18.38
+New Homeostasis,Late repair,789,745,42,1492,0.0282,5.32
+New Homeostasis,New Homeostasis,789,789,789,789,1.0,100.0

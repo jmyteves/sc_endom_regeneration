@@ -1,0 +1,185 @@
+col,replicate,cell_type,stage,compartment,n_cells
+CTRL_1|Dendritic cell,CTRL_1,Dendritic cell,CTRL,Immune,77
+CTRL_1|Dendritic cell (cDC1),CTRL_1,Dendritic cell (cDC1),CTRL,Immune,2282
+CTRL_1|Epithelial,CTRL_1,Epithelial,CTRL,Epithelial,4841
+CTRL_1|Fibroblast,CTRL_1,Fibroblast,CTRL,Stromal,33508
+CTRL_1|Fibroblast (Igf1+),CTRL_1,Fibroblast (Igf1+),CTRL,Stromal,93
+CTRL_1|Lymphatic endothelial,CTRL_1,Lymphatic endothelial,CTRL,Endothelial,1740
+CTRL_1|Macrophage,CTRL_1,Macrophage,CTRL,Immune,6095
+CTRL_1|Macrophage/APC,CTRL_1,Macrophage/APC,CTRL,Immune,385
+CTRL_1|Mesothelial,CTRL_1,Mesothelial,CTRL,Stromal,3216
+CTRL_1|NK cell,CTRL_1,NK cell,CTRL,Immune,842
+CTRL_1|Pericyte,CTRL_1,Pericyte,CTRL,Stromal,1786
+CTRL_1|Proliferating stromal,CTRL_1,Proliferating stromal,CTRL,Stromal,2285
+CTRL_1|Smooth muscle,CTRL_1,Smooth muscle,CTRL,Stromal,888
+CTRL_1|Stromal (remodeling),CTRL_1,Stromal (remodeling),CTRL,Stromal,2274
+CTRL_1|T cell,CTRL_1,T cell,CTRL,Immune,103
+CTRL_1|Vascular endothelial,CTRL_1,Vascular endothelial,CTRL,Endothelial,3536
+CTRL_2|Dendritic cell,CTRL_2,Dendritic cell,CTRL,Immune,70
+CTRL_2|Dendritic cell (cDC1),CTRL_2,Dendritic cell (cDC1),CTRL,Immune,2180
+CTRL_2|Epithelial,CTRL_2,Epithelial,CTRL,Epithelial,4072
+CTRL_2|Fibroblast,CTRL_2,Fibroblast,CTRL,Stromal,34917
+CTRL_2|Fibroblast (Igf1+),CTRL_2,Fibroblast (Igf1+),CTRL,Stromal,60
+CTRL_2|Lymphatic endothelial,CTRL_2,Lymphatic endothelial,CTRL,Endothelial,1756
+CTRL_2|Macrophage,CTRL_2,Macrophage,CTRL,Immune,6241
+CTRL_2|Macrophage/APC,CTRL_2,Macrophage/APC,CTRL,Immune,428
+CTRL_2|Mesothelial,CTRL_2,Mesothelial,CTRL,Stromal,3082
+CTRL_2|NK cell,CTRL_2,NK cell,CTRL,Immune,836
+CTRL_2|Pericyte,CTRL_2,Pericyte,CTRL,Stromal,1743
+CTRL_2|Proliferating stromal,CTRL_2,Proliferating stromal,CTRL,Stromal,2075
+CTRL_2|Smooth muscle,CTRL_2,Smooth muscle,CTRL,Stromal,857
+CTRL_2|Stromal (remodeling),CTRL_2,Stromal (remodeling),CTRL,Stromal,1701
+CTRL_2|T cell,CTRL_2,T cell,CTRL,Immune,92
+CTRL_2|Vascular endothelial,CTRL_2,Vascular endothelial,CTRL,Endothelial,3064
+E16_5_1|Dendritic cell (cDC1),E16_5_1,Dendritic cell (cDC1),E16_5,Immune,55
+E16_5_1|Epithelial,E16_5_1,Epithelial,E16_5,Epithelial,941
+E16_5_1|Fibroblast,E16_5_1,Fibroblast,E16_5,Stromal,2259
+E16_5_1|Lymphatic endothelial,E16_5_1,Lymphatic endothelial,E16_5,Endothelial,412
+E16_5_1|Macrophage,E16_5_1,Macrophage,E16_5,Immune,1028
+E16_5_1|Macrophage/APC,E16_5_1,Macrophage/APC,E16_5,Immune,94
+E16_5_1|Mesothelial,E16_5_1,Mesothelial,E16_5,Stromal,99
+E16_5_1|Pericyte,E16_5_1,Pericyte,E16_5,Stromal,289
+E16_5_1|Proliferating stromal,E16_5_1,Proliferating stromal,E16_5,Stromal,56
+E16_5_1|Smooth muscle,E16_5_1,Smooth muscle,E16_5,Stromal,160
+E16_5_1|Stromal (remodeling),E16_5_1,Stromal (remodeling),E16_5,Stromal,518
+E16_5_1|Vascular endothelial,E16_5_1,Vascular endothelial,E16_5,Endothelial,361
+E16_5_2|Dendritic cell (cDC1),E16_5_2,Dendritic cell (cDC1),E16_5,Immune,51
+E16_5_2|Epithelial,E16_5_2,Epithelial,E16_5,Epithelial,980
+E16_5_2|Fibroblast,E16_5_2,Fibroblast,E16_5,Stromal,2979
+E16_5_2|Lymphatic endothelial,E16_5_2,Lymphatic endothelial,E16_5,Endothelial,456
+E16_5_2|Macrophage,E16_5_2,Macrophage,E16_5,Immune,1281
+E16_5_2|Macrophage/APC,E16_5_2,Macrophage/APC,E16_5,Immune,102
+E16_5_2|Mesothelial,E16_5_2,Mesothelial,E16_5,Stromal,95
+E16_5_2|Pericyte,E16_5_2,Pericyte,E16_5,Stromal,345
+E16_5_2|Proliferating stromal,E16_5_2,Proliferating stromal,E16_5,Stromal,54
+E16_5_2|Smooth muscle,E16_5_2,Smooth muscle,E16_5,Stromal,198
+E16_5_2|Stromal (remodeling),E16_5_2,Stromal (remodeling),E16_5,Stromal,538
+E16_5_2|Vascular endothelial,E16_5_2,Vascular endothelial,E16_5,Endothelial,381
+E16_5_3|Epithelial,E16_5_3,Epithelial,E16_5,Epithelial,568
+E16_5_3|Fibroblast,E16_5_3,Fibroblast,E16_5,Stromal,1887
+E16_5_3|Pericyte,E16_5_3,Pericyte,E16_5,Stromal,673
+E16_5_3|Smooth muscle,E16_5_3,Smooth muscle,E16_5,Stromal,356
+E16_5_3|Stromal (remodeling),E16_5_3,Stromal (remodeling),E16_5,Stromal,145
+PPD1_1|Dendritic cell,PPD1_1,Dendritic cell,PPD1,Immune,198
+PPD1_1|Dendritic cell (cDC1),PPD1_1,Dendritic cell (cDC1),PPD1,Immune,1069
+PPD1_1|Epithelial,PPD1_1,Epithelial,PPD1,Epithelial,1278
+PPD1_1|Fibroblast,PPD1_1,Fibroblast,PPD1,Stromal,18963
+PPD1_1|Fibroblast (Igf1+),PPD1_1,Fibroblast (Igf1+),PPD1,Stromal,70
+PPD1_1|Lymphatic endothelial,PPD1_1,Lymphatic endothelial,PPD1,Endothelial,2443
+PPD1_1|Macrophage,PPD1_1,Macrophage,PPD1,Immune,19935
+PPD1_1|Macrophage/APC,PPD1_1,Macrophage/APC,PPD1,Immune,408
+PPD1_1|Mesothelial,PPD1_1,Mesothelial,PPD1,Stromal,3676
+PPD1_1|NK cell,PPD1_1,NK cell,PPD1,Immune,66
+PPD1_1|Pericyte,PPD1_1,Pericyte,PPD1,Stromal,3836
+PPD1_1|Smooth muscle,PPD1_1,Smooth muscle,PPD1,Stromal,3453
+PPD1_1|Stromal (remodeling),PPD1_1,Stromal (remodeling),PPD1,Stromal,16952
+PPD1_1|T cell,PPD1_1,T cell,PPD1,Immune,97
+PPD1_1|Vascular endothelial,PPD1_1,Vascular endothelial,PPD1,Endothelial,1376
+PPD1_2|Dendritic cell,PPD1_2,Dendritic cell,PPD1,Immune,275
+PPD1_2|Dendritic cell (cDC1),PPD1_2,Dendritic cell (cDC1),PPD1,Immune,1350
+PPD1_2|Epithelial,PPD1_2,Epithelial,PPD1,Epithelial,1309
+PPD1_2|Fibroblast,PPD1_2,Fibroblast,PPD1,Stromal,23022
+PPD1_2|Fibroblast (Igf1+),PPD1_2,Fibroblast (Igf1+),PPD1,Stromal,85
+PPD1_2|Lymphatic endothelial,PPD1_2,Lymphatic endothelial,PPD1,Endothelial,3508
+PPD1_2|Macrophage,PPD1_2,Macrophage,PPD1,Immune,26238
+PPD1_2|Macrophage/APC,PPD1_2,Macrophage/APC,PPD1,Immune,492
+PPD1_2|Mesothelial,PPD1_2,Mesothelial,PPD1,Stromal,4496
+PPD1_2|NK cell,PPD1_2,NK cell,PPD1,Immune,112
+PPD1_2|Pericyte,PPD1_2,Pericyte,PPD1,Stromal,5381
+PPD1_2|Proliferating stromal,PPD1_2,Proliferating stromal,PPD1,Stromal,51
+PPD1_2|Smooth muscle,PPD1_2,Smooth muscle,PPD1,Stromal,4442
+PPD1_2|Stromal (remodeling),PPD1_2,Stromal (remodeling),PPD1,Stromal,20133
+PPD1_2|T cell,PPD1_2,T cell,PPD1,Immune,107
+PPD1_2|Vascular endothelial,PPD1_2,Vascular endothelial,PPD1,Endothelial,1812
+PPD1_3|Dendritic cell,PPD1_3,Dendritic cell,PPD1,Immune,92
+PPD1_3|Dendritic cell (cDC1),PPD1_3,Dendritic cell (cDC1),PPD1,Immune,454
+PPD1_3|Epithelial,PPD1_3,Epithelial,PPD1,Epithelial,586
+PPD1_3|Fibroblast,PPD1_3,Fibroblast,PPD1,Stromal,5537
+PPD1_3|Lymphatic endothelial,PPD1_3,Lymphatic endothelial,PPD1,Endothelial,1360
+PPD1_3|Macrophage,PPD1_3,Macrophage,PPD1,Immune,7563
+PPD1_3|Macrophage/APC,PPD1_3,Macrophage/APC,PPD1,Immune,163
+PPD1_3|Mesothelial,PPD1_3,Mesothelial,PPD1,Stromal,1712
+PPD1_3|Pericyte,PPD1_3,Pericyte,PPD1,Stromal,1810
+PPD1_3|Smooth muscle,PPD1_3,Smooth muscle,PPD1,Stromal,1367
+PPD1_3|Stromal (remodeling),PPD1_3,Stromal (remodeling),PPD1,Stromal,6097
+PPD1_3|Vascular endothelial,PPD1_3,Vascular endothelial,PPD1,Endothelial,574
+PPD30_1|Dendritic cell,PPD30_1,Dendritic cell,PPD30,Immune,116
+PPD30_1|Dendritic cell (cDC1),PPD30_1,Dendritic cell (cDC1),PPD30,Immune,310
+PPD30_1|Epithelial,PPD30_1,Epithelial,PPD30,Epithelial,2569
+PPD30_1|Fibroblast,PPD30_1,Fibroblast,PPD30,Stromal,3426
+PPD30_1|Lymphatic endothelial,PPD30_1,Lymphatic endothelial,PPD30,Endothelial,345
+PPD30_1|Macrophage,PPD30_1,Macrophage,PPD30,Immune,1933
+PPD30_1|Mesothelial,PPD30_1,Mesothelial,PPD30,Stromal,1398
+PPD30_1|NK cell,PPD30_1,NK cell,PPD30,Immune,191
+PPD30_1|Pericyte,PPD30_1,Pericyte,PPD30,Stromal,320
+PPD30_1|Smooth muscle,PPD30_1,Smooth muscle,PPD30,Stromal,560
+PPD30_1|Stromal (remodeling),PPD30_1,Stromal (remodeling),PPD30,Stromal,1860
+PPD30_1|T cell,PPD30_1,T cell,PPD30,Immune,235
+PPD30_1|Vascular endothelial,PPD30_1,Vascular endothelial,PPD30,Endothelial,113
+PPD30_2|Dendritic cell (cDC1),PPD30_2,Dendritic cell (cDC1),PPD30,Immune,69
+PPD30_2|Epithelial,PPD30_2,Epithelial,PPD30,Epithelial,1222
+PPD30_2|Fibroblast,PPD30_2,Fibroblast,PPD30,Stromal,626
+PPD30_2|Lymphatic endothelial,PPD30_2,Lymphatic endothelial,PPD30,Endothelial,86
+PPD30_2|Macrophage,PPD30_2,Macrophage,PPD30,Immune,269
+PPD30_2|Mesothelial,PPD30_2,Mesothelial,PPD30,Stromal,395
+PPD30_2|Pericyte,PPD30_2,Pericyte,PPD30,Stromal,85
+PPD30_2|Smooth muscle,PPD30_2,Smooth muscle,PPD30,Stromal,161
+PPD30_2|Stromal (remodeling),PPD30_2,Stromal (remodeling),PPD30,Stromal,369
+PPD30_3|Dendritic cell (cDC1),PPD30_3,Dendritic cell (cDC1),PPD30,Immune,117
+PPD30_3|Epithelial,PPD30_3,Epithelial,PPD30,Epithelial,953
+PPD30_3|Fibroblast,PPD30_3,Fibroblast,PPD30,Stromal,1040
+PPD30_3|Lymphatic endothelial,PPD30_3,Lymphatic endothelial,PPD30,Endothelial,128
+PPD30_3|Macrophage,PPD30_3,Macrophage,PPD30,Immune,493
+PPD30_3|Mesothelial,PPD30_3,Mesothelial,PPD30,Stromal,469
+PPD30_3|Pericyte,PPD30_3,Pericyte,PPD30,Stromal,115
+PPD30_3|Smooth muscle,PPD30_3,Smooth muscle,PPD30,Stromal,206
+PPD30_3|Stromal (remodeling),PPD30_3,Stromal (remodeling),PPD30,Stromal,439
+PPD30_3|T cell,PPD30_3,T cell,PPD30,Immune,52
+PPD7_1|Dendritic cell,PPD7_1,Dendritic cell,PPD7,Immune,832
+PPD7_1|Dendritic cell (cDC1),PPD7_1,Dendritic cell (cDC1),PPD7,Immune,2923
+PPD7_1|Epithelial,PPD7_1,Epithelial,PPD7,Epithelial,167
+PPD7_1|Fibroblast,PPD7_1,Fibroblast,PPD7,Stromal,71836
+PPD7_1|Fibroblast (Igf1+),PPD7_1,Fibroblast (Igf1+),PPD7,Stromal,1279
+PPD7_1|Lymphatic endothelial,PPD7_1,Lymphatic endothelial,PPD7,Endothelial,421
+PPD7_1|Macrophage,PPD7_1,Macrophage,PPD7,Immune,5371
+PPD7_1|Macrophage/APC,PPD7_1,Macrophage/APC,PPD7,Immune,1795
+PPD7_1|Mesothelial,PPD7_1,Mesothelial,PPD7,Stromal,380
+PPD7_1|NK cell,PPD7_1,NK cell,PPD7,Immune,4889
+PPD7_1|Pericyte,PPD7_1,Pericyte,PPD7,Stromal,1382
+PPD7_1|Proliferating stromal,PPD7_1,Proliferating stromal,PPD7,Stromal,2001
+PPD7_1|Smooth muscle,PPD7_1,Smooth muscle,PPD7,Stromal,2127
+PPD7_1|Stromal (remodeling),PPD7_1,Stromal (remodeling),PPD7,Stromal,3336
+PPD7_1|T cell,PPD7_1,T cell,PPD7,Immune,6221
+PPD7_1|Vascular endothelial,PPD7_1,Vascular endothelial,PPD7,Endothelial,549
+PPD7_2|Dendritic cell,PPD7_2,Dendritic cell,PPD7,Immune,645
+PPD7_2|Dendritic cell (cDC1),PPD7_2,Dendritic cell (cDC1),PPD7,Immune,2614
+PPD7_2|Epithelial,PPD7_2,Epithelial,PPD7,Epithelial,179
+PPD7_2|Fibroblast,PPD7_2,Fibroblast,PPD7,Stromal,69710
+PPD7_2|Fibroblast (Igf1+),PPD7_2,Fibroblast (Igf1+),PPD7,Stromal,1232
+PPD7_2|Lymphatic endothelial,PPD7_2,Lymphatic endothelial,PPD7,Endothelial,341
+PPD7_2|Macrophage,PPD7_2,Macrophage,PPD7,Immune,5188
+PPD7_2|Macrophage/APC,PPD7_2,Macrophage/APC,PPD7,Immune,1724
+PPD7_2|Mesothelial,PPD7_2,Mesothelial,PPD7,Stromal,373
+PPD7_2|NK cell,PPD7_2,NK cell,PPD7,Immune,4709
+PPD7_2|Pericyte,PPD7_2,Pericyte,PPD7,Stromal,1351
+PPD7_2|Proliferating stromal,PPD7_2,Proliferating stromal,PPD7,Stromal,1856
+PPD7_2|Smooth muscle,PPD7_2,Smooth muscle,PPD7,Stromal,2111
+PPD7_2|Stromal (remodeling),PPD7_2,Stromal (remodeling),PPD7,Stromal,2538
+PPD7_2|T cell,PPD7_2,T cell,PPD7,Immune,5537
+PPD7_2|Vascular endothelial,PPD7_2,Vascular endothelial,PPD7,Endothelial,522
+PPD7_3|Dendritic cell,PPD7_3,Dendritic cell,PPD7,Immune,859
+PPD7_3|Dendritic cell (cDC1),PPD7_3,Dendritic cell (cDC1),PPD7,Immune,3499
+PPD7_3|Epithelial,PPD7_3,Epithelial,PPD7,Epithelial,213
+PPD7_3|Fibroblast,PPD7_3,Fibroblast,PPD7,Stromal,91009
+PPD7_3|Fibroblast (Igf1+),PPD7_3,Fibroblast (Igf1+),PPD7,Stromal,1819
+PPD7_3|Lymphatic endothelial,PPD7_3,Lymphatic endothelial,PPD7,Endothelial,333
+PPD7_3|Macrophage,PPD7_3,Macrophage,PPD7,Immune,6975
+PPD7_3|Macrophage/APC,PPD7_3,Macrophage/APC,PPD7,Immune,2091
+PPD7_3|Mesothelial,PPD7_3,Mesothelial,PPD7,Stromal,575
+PPD7_3|NK cell,PPD7_3,NK cell,PPD7,Immune,6459
+PPD7_3|Pericyte,PPD7_3,Pericyte,PPD7,Stromal,1838
+PPD7_3|Proliferating stromal,PPD7_3,Proliferating stromal,PPD7,Stromal,2499
+PPD7_3|Smooth muscle,PPD7_3,Smooth muscle,PPD7,Stromal,2721
+PPD7_3|Stromal (remodeling),PPD7_3,Stromal (remodeling),PPD7,Stromal,3380
+PPD7_3|T cell,PPD7_3,T cell,PPD7,Immune,7493
+PPD7_3|Vascular endothelial,PPD7_3,Vascular endothelial,PPD7,Endothelial,676

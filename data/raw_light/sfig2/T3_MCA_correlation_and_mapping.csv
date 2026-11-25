@@ -1,0 +1,17 @@
+cell_type,compartment,cluster_to_celltype_mapping_source,MCA_best_match_type,MCA_pearson_r,_README
+Dendritic cell,Immune,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,"PARTIAL - the cluster->cell-type/compartment mapping is real. The MCA per-type correlations exist ONLY as a rendered figure (SFig1/01_signature_correlation.svg, also SFigs_latest/figures_png/S2b_signature_correlation_MCA.png): verified that the heatmap body is an embedded raster <image>, so the 16x12 Pearson r matrix is NOT recoverable from the SVG - only the colourbar ticks (-0.6..0.6, 'Pearson r (HVG signatures)') and axis labels are live text. MCA_best_match_type / MCA_pearson_r must be re-exported from the correlation script."
+Dendritic cell (cDC1),Immune,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Epithelial,Epithelial,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Fibroblast,Stromal,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Fibroblast (Igf1+),Stromal,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Lymphatic endothelial,Endothelial,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Macrophage,Immune,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Macrophage/APC,Immune,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Mesothelial,Stromal,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+NK cell,Immune,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Pericyte,Stromal,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Proliferating stromal,Stromal,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Smooth muscle,Stromal,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Stromal (remodeling),Stromal,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+T cell,Immune,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,
+Vascular endothelial,Endothelial,fig5_16types/tables/cluster_compartment_map.csv,not_recorded_on_disk,not_recorded_on_disk,

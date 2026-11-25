@@ -1,0 +1,18 @@
+statistic,value,note
+n_replicates,14.0,"2 CTRL, 3 each E16.5/PPD1/PPD7/PPD30"
+n_cell_types,16.0,current annotation; identical across 3 independent tables
+total_cells,698481.0,sum of Fig2d_drift_per_replicate n_cells
+min_replicate_depth,3439.0,PPD30_2
+max_replicate_depth,132439.0,PPD7_3
+depth_fold_range,38.51,max/min replicate depth
+braycurtis_within_stage_median,0.0536,n=13 pairs
+braycurtis_between_stage_median,0.4351,n=78 pairs
+braycurtis_between_over_within,8.11,ratio of medians
+braycurtis_mannwhitney_p,8.285521412837791e-08,"between > within, one-sided"
+spearman_rho_counts_fulldepth_vs_equalN,0.7483,"p=0.005124, n=12 types"
+spearman_rho_shares_fulldepth_vs_equalN,-0.0699,"p=0.829, n=12 types; shares NOT preserved"
+spearman_rho_depth_vs_epithelial_pct,-0.9341,p=1.028e-06; depth-composition confound
+equalN_retained_pct_min,10.0,Stromal (remodeling)
+equalN_retained_pct_median,68.0,across the 12 covered types
+equalN_types_covered,12.0,"of 16; missing: Dendritic cell, Fibroblast (Igf1+), NK cell, T cell"
+equalN_cDC1_zero_draws,3.0,of 20 draws recovered 0 cDC1 cells

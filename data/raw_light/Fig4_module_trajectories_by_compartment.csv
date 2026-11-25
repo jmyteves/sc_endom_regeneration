@@ -1,0 +1,21 @@
+module,compartment,CTRL,E16.5,PPD1,PPD7,PPD30
+Homeostasis,Epithelial,1.4973,0.0498,0.1092,0.6240,0.1490
+Homeostasis,Stromal,0.6884,-0.2573,-0.3331,0.0765,-0.1391
+Homeostasis,Endothelial,0.9039,0.2284,0.1469,0.3965,0.2139
+Homeostasis,Immune,0.2257,-0.3296,-0.4403,-0.2724,-0.2263
+Pregnancy,Epithelial,-0.6594,1.7436,0.2392,-0.1152,-0.0608
+Pregnancy,Stromal,-0.1008,1.0254,0.1874,0.0179,0.1631
+Pregnancy,Endothelial,-0.4048,0.9460,0.0131,-0.2629,-0.1952
+Pregnancy,Immune,-0.6548,0.4748,-0.3815,-0.5683,-0.3835
+Early repair,Epithelial,-0.8020,0.0434,0.2831,-0.4586,-0.2710
+Early repair,Stromal,-0.3356,-0.0140,0.5108,-0.0586,0.1557
+Early repair,Endothelial,-0.5190,0.0253,0.3714,-0.3126,-0.1869
+Early repair,Immune,-0.3847,0.2612,0.3158,-0.1591,0.0667
+Late repair,Epithelial,-0.7845,-0.2470,-0.3926,-0.3035,-0.6864
+Late repair,Stromal,-0.0580,-0.2165,0.0217,0.5333,-0.0282
+Late repair,Endothelial,-0.5165,-0.2524,-0.1656,0.1148,-0.4222
+Late repair,Immune,-0.1543,-0.2497,-0.0291,0.4586,0.0194
+Remodelling,Epithelial,0.3980,0.7254,1.6215,0.7371,1.9138
+Remodelling,Stromal,-0.1355,-0.0983,-0.0581,-0.1645,0.5407
+Remodelling,Endothelial,-0.2524,-0.0598,-0.0617,-0.3615,0.3370
+Remodelling,Immune,-0.4097,-0.2205,-0.2817,-0.3765,0.4035
