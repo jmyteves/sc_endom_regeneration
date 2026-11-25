@@ -5,35 +5,6 @@ a New Homeostatic State* (Teves et al.): a whole-uterus scRNA-seq time course in
 mouse (Control, E16.5, PPD1, PPD7, PPD30; 698,631 cells, 17,987 genes, 15 libraries)
 with histology, morphometry and endometrial organoid assays.
 
-Two notebooks rebuild every computable panel of the six main figures and five
-supplementary figures (deck v10) from the tables in `data/`.
-
-## Run
-
-```bash
-conda env create -f environment.yml      # or: pip install -r requirements.txt
-conda activate sc_endom
-jupyter lab notebooks/sc_endom_figures.ipynb        # Fig. 1-6
-jupyter lab notebooks/sc_endom_supplementary.ipynb  # fig. S1-S5 and extras
-```
-
-Run either notebook top to bottom. Neither opens the atlas h5ad: `data/staged/`
-holds everything derived from it. Output goes to `figures/` as SVG with live text and
-a transparent background (plus PDF and a PNG preview for most panels). The panels
-built at slot size (Fig. 1 F-H, Fig. 5-6 B-F) are placed at 100 % in Illustrator.
-
-To regenerate `data/staged/` from the atlas (only needed if the h5ad changes):
-
-```bash
-python scripts/00_stage_inputs.py --atlas /path/to/endometrium_annotated_v1.h5ad --out data/staged
-python scripts/stage_marker_deck139.py
-```
-
-To rebuild the supplementary table workbook:
-
-```bash
-python scripts/10_build_tables.py --check /path/to/ALL_Tables.xlsx
-```
 
 ## Layout
 
@@ -54,34 +25,7 @@ docs/                PANEL_MAP.md (panel -> module -> inputs -> file), INPUTS.md
 figures/             output (not tracked)
 ```
 
-To change a panel, edit `src/`, not the notebook. Export goes through
-`render_svg.save_svg` (cropped to content) or `render_svg.save_fixed` (declared
-figsize, for the slot-sized panels).
 
-## Panels that are not computed here
-
-| panel | reason |
-|---|---|
-| Fig. 1 D, E; Fig. 3 D; Fig. 5 A | photographs, immunofluorescence, trichrome sections, schematic |
-| fig. S1 A-D | the 30/45/60 min digestion series exists as raw FCS only; gate statistics and tissue masses were not exported |
-| fig. S2 E (raw-PCA half) | the un-integrated UMAP was never staged; re-running UMAP would give a new embedding |
-| fig. S2 F | the Pearson matrix against the MCA uterus reference exists only as a raster |
-
-Each returns a placeholder SVG and a reason string from `build()`.
-
-## Statistics in the figures
-
-- Fig. 1 B-C: one-way ANOVA with Tukey HSD across the five stages.
-- Fig. 1 F-H: uncorrected two-tailed Student's t between all stage pairs on per-section
-  values; Welch and Tukey p-values are written to `Fig1FGH_pairwise_tests.csv`.
-- Fig. 5 F, Fig. 6 E: mixed model `log(diameter) ~ treatment` with a well random
-  intercept at each timepoint (statsmodels MixedLM); the ratio and p-value per timepoint
-  are written next to the panel. Organoids are the consensus set scored INCLUDE by both
-  raters (`data/raw_light/organoids/per_organoid_humanscored.csv`).
-- Fig. 5 B-C, Fig. 6 A-B: LIANA 16-type run, pairs with CellPhoneDB p < 0.05, magnitude
-  summed over receptors and non-epithelial senders. The chord-circle ribbon scale is
-  shared across the five stages (Fig. 5 C) and across the three organoid factors
-  (Fig. 6 B).
 
 ## Conventions
 
